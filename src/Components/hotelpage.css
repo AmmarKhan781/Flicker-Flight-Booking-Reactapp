@@ -1,0 +1,128 @@
+.but-sub,
+.but-sub1 {
+  border: 2px solid;
+  width: 80px;
+  height: 40px;
+  background-color: unset;
+  border-radius: 20px;
+  color: white;
+  margin: 10px;
+}
+.but-sub1 {
+  border: unset;
+  width: 120px;
+  background-color: white;
+  color: black;
+}
+.main33 h1 {
+  color: white;
+  padding-left: 12px;
+  font-size: 2.8em;
+}
+.main33 {
+  display: flex;
+  background-image: url("../assets/bnbg1.png");
+  height: 194px;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  padding-left: 100px;
+}
+.main44 {
+  display: flex;
+  gap: 5px;
+  cursor: pointer;
+}
+.main22 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+}
+.hotel-card1 {
+  
+  width: 280px;
+  display: flex;
+  background-color: #ffff;
+  flex-direction: column;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+.hotel-card1:hover {
+  transform: translateY(-8px);
+}
+.hotel-image1 {
+  width: 350px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.hotel-details1 {
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hotel-type1 {
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.hotel-name1 {
+  font-size: 16px;
+  margin: 5px 0;
+  color: #111827;
+}
+
+.hotel-rating1 {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.star1 {
+  color: #fbbf24;
+}
+
+.reviews1 {
+  color: #3b82f6;
+}
+
+.hotel-price1 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #111827;
+  margin-bottom: 10px;
+}
+
+.details-button1 {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.last {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px ;
+  justify-content: center;
+}
+.last1{
+  display: flex;
+}
+.img88 {
+  width: 400px;
+  height: 600px;
+  cursor: pointer;
+  padding-bottom: 20px;
+}

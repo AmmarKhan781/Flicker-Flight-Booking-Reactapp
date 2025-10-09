@@ -1,0 +1,51 @@
+* {
+margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.logo {
+  height: 33px;
+
+}
+
+.not-pp {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.not-pp1 {
+  width: 25px;
+  height: 25px;
+  border-radius: 50px;
+  margin: 5px;
+  margin-left: 0;
+}
+
+.in-header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;  
+  max-width: 1450px; 
+  height: 78px;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: #ffffff;
+  margin: 0 auto; 
+}
+
+.nav-link,
+.nav-img {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav-link {
+  gap: 50px;
+}
